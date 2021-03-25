@@ -3,6 +3,7 @@
 ## Installation
 
 * Ouvrez le terminal faite `npm i`
+* Crée un fichier **token.txt**
 * Mettez 1 token ou plusieurs tokens dans `token.txt`
 * Aller dans le fichier `config.json` mettez l'id du serveur à pub mp vocal
 * Ensuite allez dans le terminal et faite `node main.js`
